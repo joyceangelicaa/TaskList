@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "tugaskelas.c14220163.tasklist"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "tugaskelas.c14220163.tasklist"

@@ -18,7 +18,7 @@
 
     <TextView
         android:id="@+id/taskTitle"
-        android:layout_width="33dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=""
         android:textColor="@color/black"
@@ -28,7 +28,7 @@
 
     <TextView
         android:id="@+id/taskDate"
-        android:layout_width="33dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=""
         android:textColor="@color/black"
@@ -38,7 +38,7 @@
 
     <TextView
         android:id="@+id/taskDeskripsi"
-        android:layout_width="33dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text=""
         android:textColor="@color/black"

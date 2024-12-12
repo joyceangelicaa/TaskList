@@ -2,4 +2,6 @@
 <resources>
     <color name="completed_background">#D3E4CD</color>
     <color name="default_background">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
 </resources>

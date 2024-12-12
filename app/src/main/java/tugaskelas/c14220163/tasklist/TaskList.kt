@@ -4,5 +4,5 @@ data class TaskList (
     val judul :String,
     val tanggal :String,
     val deskripsi :String,
-    val isCompleted :Boolean = false
+    var isCompleted :Boolean = false
 )

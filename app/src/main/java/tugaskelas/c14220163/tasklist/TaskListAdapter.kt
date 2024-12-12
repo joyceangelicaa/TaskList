@@ -58,4 +58,5 @@ class TaskListAdapter (
             notifyItemChanged(position)
         }
     }
+    override fun getItemCount(): Int = taskList.size
 }
